@@ -1,0 +1,27 @@
+Tue Jun 19 21:05:42 BRT 2018 : Apache Derby Servidor de Rede - 10.14.1.0 - (1808820) iniciado e pronto para aceitar conexões na porta 1527 em {3}
+----------------------------------------------------------------
+Tue Jun 19 21:05:51 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0164-1a82-e10f-000005619490 
+on database directory C:\Users\Alunoinf_2\Desktop\_PW\lab-pw-2018-1\vendadb with class loader java.net.URLClassLoader@72c3cfb 
+Loaded from file:/C:/Users/Alunoinf_2/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=C:\Users\Alunoinf_2\Desktop\_PW\lab-pw-2018-1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 19 21:44:47 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance 953a00d1-0164-1a82-e10f-000005619490 
+on database directory C:\Users\Alunoinf_2\Desktop\_PW\lab-pw-2018-1\tododb with class loader java.net.URLClassLoader@72c3cfb 
+Loaded from file:/C:/Users/Alunoinf_2/.m2/repository/org/apache/derby/derby/10.14.1.0/derby-10.14.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b15
+user.dir=C:\Users\Alunoinf_2\Desktop\_PW\lab-pw-2018-1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
